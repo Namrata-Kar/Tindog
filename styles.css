@@ -17,7 +17,7 @@ h1{
     transform: rotate(15deg);
     margin: 7%;
 }
-@media (max-width:1024px){
+@media (max-width:1100px){
     .container-fluid{
         text-align: center;
     }
