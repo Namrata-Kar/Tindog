@@ -24,8 +24,8 @@ h1{
     .phone{
         transform: rotate(15deg);
     }
-    body{
-        font-size: 1rem;
+    p{
+        font-size: 1.5rem;
     }
 }
 .use{
