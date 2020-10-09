@@ -24,6 +24,9 @@ h1{
     .phone{
         transform: rotate(15deg);
     }
+    body{
+        font-size: 1rem;
+    }
 }
 .use{
     text-align: center;
