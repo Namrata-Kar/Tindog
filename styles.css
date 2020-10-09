@@ -1,0 +1,72 @@
+#title{
+    background-color: #ff4c68;
+    color: white;
+}
+h1{
+    font-size: 2.5rem;
+    line-height: 1.3;
+}
+.container-fluid{
+    padding: 5% 15% 3% 15%;
+}
+.navbar{
+    padding: 0 0 3.5rem;
+}
+.phone{
+    width: 60%;
+    transform: rotate(15deg);
+    margin: 7%;
+}
+@media (max-width:950px){
+    .container-fluid{
+        text-align: center;
+    }
+    .phone{
+        transform: rotate(15deg);
+    }
+}
+.use{
+    text-align: center;
+}
+#testimonials{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 5% 0% 3%;
+    color: white;
+}
+.testimony{
+    padding: 0% 15%;
+}
+.round{
+    width: 5rem;
+    border-radius: 50%;
+    margin: 5%;
+}
+.press{
+    width: 7rem;
+}
+#pricing{
+    padding: 5% 15%;
+}
+#cta{
+    background-color: #ff4c68;
+    padding: 5% 15%;
+    text-align: center;
+    color: white;
+}
+.download{
+    margin: 3% 1%;
+}
+#footer{
+    padding: 5% 15% 2%;
+    text-align: center;
+}
+.media{
+    padding: 0.5%
+}
+a{
+    color: black;
+}
+i{
+    margin-right: 0.5rem;
+}
